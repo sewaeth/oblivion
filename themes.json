@@ -1,0 +1,101 @@
+{
+  "OLED Dark": {
+    "bg": "#000000",
+    "fg": "#f8f8f2",
+    "accent": "#6c3483",
+    "entry_bg": "#101010",
+    "entry_fg": "#f8f8f2",
+    "button_bg": "#181818",
+    "button_fg": "#f8f8f2"
+  },
+  "Femboy's Heaven": {
+    "bg": "#ffe6fa",
+    "fg": "#7d287d",
+    "accent": "#ff69b4",
+    "entry_bg": "#fff0fa",
+    "entry_fg": "#7d287d",
+    "button_bg": "#ffb6e6",
+    "button_fg": "#7d287d"
+  },
+  "Hacker X": {
+    "bg": "#0f1a0f",
+    "fg": "#39ff14",
+    "accent": "#00ff41",
+    "entry_bg": "#1a2d1a",
+    "entry_fg": "#39ff14",
+    "button_bg": "#1a2d1a",
+    "button_fg": "#39ff14"
+  },
+  "Pings Aura": {
+    "bg": "#1a0a0a",
+    "fg": "#ffffff",
+    "accent": "#ff0059",
+    "entry_bg": "#2d1010",
+    "entry_fg": "#ffffff",
+    "button_bg": "#2d1010",
+    "button_fg": "#ff4b4b"
+  },
+  "Mango Mango Mango": {
+    "bg": "#2d1a00",
+    "fg": "#ffe0b2",
+    "accent": "#ff8800",
+    "entry_bg": "#3e2723",
+    "entry_fg": "#ffb347",
+    "button_bg": "#ff8800",
+    "button_fg": "#ffe0b2"
+  },
+  "Snowgrave Route": {
+    "bg": "#2e3440",
+    "fg": "#eceff4",
+    "accent": "#88c0d0",
+    "entry_bg": "#3b4252",
+    "entry_fg": "#eceff4",
+    "button_bg": "#4c566a",
+    "button_fg": "#88c0d0"
+  },
+  "Virtual Grass": {
+    "bg": "#232b22",
+    "fg": "#d2e8cf",
+    "accent": "#4e944f",
+    "entry_bg": "#2d3a2e",
+    "entry_fg": "#d2e8cf",
+    "button_bg": "#386641",
+    "button_fg": "#d2e8cf"
+  },
+  "Shadow Realm": {
+    "bg": "#111111",
+    "fg": "#e0e0e0",
+    "accent": "#444444",
+    "entry_bg": "#181818",
+    "entry_fg": "#e0e0e0",
+    "button_bg": "#222222",
+    "button_fg": "#e0e0e0"
+  },
+  "Visual Studio": {
+    "bg": "#1e1e1e",
+    "fg": "#d4d4d4",
+    "accent": "#007acc",
+    "entry_bg": "#252526",
+    "entry_fg": "#d4d4d4",
+    "button_bg": "#007acc",
+    "button_fg": "#ffffff"
+  },
+  "Light Mode": {
+    "bg": "#ffffff",
+    "fg": "#ffffff",
+    "accent": "#ffffff",
+    "entry_bg": "#ffffff",
+    "entry_fg": "#ffffff",
+    "button_bg": "#ffffff",
+    "button_fg": "#ffffff"
+  },
+  "Not Spotify": {
+    "bg": "#1e1e1e",
+    "fg": "#1ed760",
+    "accent": "#1ed760",
+    "entry_bg": "#252526",
+    "entry_fg": "#1ed760",
+    "button_bg": "#1ed760",
+    "button_fg": "#1e1e1e"
+  }
+} 
