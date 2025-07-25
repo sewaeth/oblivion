@@ -1,0 +1,3 @@
+requests
+pyyaml
+# Tkinter is included with standard Python installations (no pip install needed) 
