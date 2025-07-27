@@ -894,5 +894,5 @@ class TextHandler(logging.Handler):
 if __name__ == "__main__":
     # Entry point: create the main window and start the GUI application
     root = tk.Tk()
-    app = OblivionGUI(root, "config.yaml")
+    app = OblivionGUI(root, resource_path("config.yaml"))
     root.mainloop()
