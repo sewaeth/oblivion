@@ -1,0 +1,17 @@
+avatar_url: https://media.discordapp.net/attachments/1329536982237319239/1375174292303773876/blob-cat-ping.gif
+custom_theme:
+  accent: '#6c3483'
+  bg: '#181818'
+  entry_bg: '#23272e'
+  entry_fg: '#f8f8f2'
+  fg: '#f8f8f2'
+delay: 2.5
+max_retries: 3
+message: '@everyone'
+message_limit: 9000
+rate_limit_backoff: 60.0
+stop_button_mode: stop
+theme: Nordic Night
+total_pings: 100
+username: Oblivion V1
+webhooks_file: webhooks.json
