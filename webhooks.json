@@ -1,14 +1,14 @@
 // These are example/fake webhooks for demonstration only.
 
-{
-  "EXAMPLE (1-5)": [
+
+  [
     "https://discord.com/api/webhooks/1234567890123456789/abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMN1",
     "https://discord.com/api/webhooks/9876543210987654321/ZYXWVUTSRQPONMLKJIHGFEDCBA9876543210abcd2",
     "https://discord.com/api/webhooks/1122334455667788990/abcdef1234567890ABCDEFabcdef1234567890AB3",
     "https://discord.com/api/webhooks/9988776655443322110/12345ABCDEabcde54321ABCDEabcde54321ABCD4",
     "https://discord.com/api/webhooks/1029384756102938475/xyzXYZ9876543210xyzXYZ9876543210xyzXYZ5"
   ],
-  "EXAMPLE2 (6-15)": [
+  [
     "https://discord.com/api/webhooks/1234567890123456789/abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMN1",
     "https://discord.com/api/webhooks/9876543210987654321/ZYXWVUTSRQPONMLKJIHGFEDCBA9876543210abcd2",
     "https://discord.com/api/webhooks/1122334455667788990/abcdef1234567890ABCDEFabcdef1234567890AB3",
@@ -20,4 +20,3 @@
     "https://discord.com/api/webhooks/9988776655443322110/12345ABCDEabcde54321ABCDEabcde54321ABCD4",
     "https://discord.com/api/webhooks/1029384756102938475/xyzXYZ9876543210xyzXYZ9876543210xyzXYZ5"
   ]
-}
