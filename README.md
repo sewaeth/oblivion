@@ -1,4 +1,4 @@
-# Oblivion V1 - Discord Webhook Ping Farm GUI
+# Oblivion V1 - Discord Webhook Ping Farm GUI (Discontinued Version)
 
 ## Overview
 Oblivion V1 is a user-friendly GUI tool for sending pings to Discord webhooks, supporting Parallel and Sequential modes, advanced settings, and full theme customization. It is designed for non-commercial, educational, and testing purposes only.
